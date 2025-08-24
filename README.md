@@ -21,7 +21,7 @@ Tasks related to the KodeKloude Engineer
 ✔️ Task 001 - [Linux User Setup with Non-Interactive Shell](./Level_01/Tasks_01-10/Task-01.md)  
 ✔️ Task 002 - [Temporary User Setup with Expiry](./Level_01/Tasks_01-10/Task-02.md)  
 ✔️ Task 003 - [Secure Root SSH Access](./Level_01/Tasks_01-10/Task-03.md)  
-✔️ Task 004 - Script Execution Permissions  
+✔️ Task 004 - [Script Execution Permissions](./Level_01/Tasks_01-10/Task-04.md)  
 ✔️ Task 005 - SElinux Installation and Configuration  
 ✔️ Task 006 - Create a Cron Job  
 ✔️ Task 007 - Linux SSH Authentication  
