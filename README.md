@@ -24,7 +24,7 @@ Tasks related to the KodeKloude Engineer
 ✔️ Task 004 - [Script Execution Permissions](./Level_01/Tasks_01-10/Task-04.md)  
 ✔️ Task 005 - [SElinux Installation and Configuration](./Level_01/Tasks_01-10/Task-05.md)  
 ✔️ Task 006 - [Create a Cron Job](./Level_01/Tasks_01-10/Task-06.md)  
-✔️ Task 007 - Linux SSH Authentication  
+✔️ Task 007 - [Linux SSH Authentication](./Level_01/Tasks_01-10/Task-07.md)  
 ✔️ Task 008 - [Install Ansible](./Level_01/Tasks_01-10/Task-08.md)  
 ✔️ Task 009 - [MariaDB Troubleshooting](./Level_01/Tasks_01-10/Task-09.md)  
 ✔️ Task 010 - [Linux Bash Scripts](./Level_01/Tasks_01-10/Task-10.md)  
