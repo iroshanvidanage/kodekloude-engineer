@@ -39,7 +39,9 @@ crontab -e
 ```bash
 crontab -l -u root
 ```
-`-u root` is not needed `crontab -l` will show the cronjob list fro the current logged in user.
+
+> [!TIP]
+> `-u root` is not needed `crontab -l` will show the cronjob list fro the current logged in user.
 
 4. Restart the daemon
 
