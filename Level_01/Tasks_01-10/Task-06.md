@@ -5,7 +5,7 @@
 The Nautilus system admins team has prepared scripts to automate several day-to-day tasks. They want them to be deployed on all app servers in Stratos DC on a set schedule. Before that they need to test similar functionality with a sample cron job. Therefore, perform the steps below:
 
 a. Install `cronie` package on __all Nautilus app servers__ and start `crond` service.
-b. Add a cron __*/5 * * * * echo hello > /tmp/cron.text__ for `root` user.
+b. Add a cron __*/5 * * * * echo hello > /tmp/cron.txt__ for `root` user.
 
 ---
 
@@ -30,7 +30,7 @@ systemctl start crond
 crontab -e
 
 # add this and save
-*/5 * * * * echo hello > /tmp/cron.text
+*/5 * * * * echo hello > /tmp/cron.txt
 
 ```
 
