@@ -26,7 +26,7 @@ Tasks related to the KodeKloude Engineer
 ✔️ Task 006 - Create a Cron Job  
 ✔️ Task 007 - Linux SSH Authentication  
 ✔️ Task 008 - [Install Ansible](./Level_01/Tasks_01-10/Task-08.md)  
-✔️ Task 009 - MariaDB Troubleshooting  
+✔️ Task 009 - [MariaDB Troubleshooting](./Level_01/Tasks_01-10/Task-09.md)  
 ✔️ Task 010 - [Linux Bash Scripts](./Level_01/Tasks_01-10/Task-10.md)  
 ✔️ Task 011 - [Install and Configure Tomcat Server](./Level_01/Tasks_11-20/Task-11.md)  
 ✔️ Task 012 - [Linux Network Services](./Level_01/Tasks_11-20/Task-12.md)  
