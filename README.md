@@ -32,7 +32,7 @@ Tasks related to the KodeKloude Engineer
 ✔️ Task 012 - [Linux Network Services](./Level_01/Tasks_11-20/Task-12.md)  
 ✔️ Task 013 - [IPtables Installation And Configuration](./Level_01/Tasks_11-20/Task-13.md)  
 ✔️ Task 014 - [Linux Process Troubleshooting](./Level_01/Tasks_11-20/Task-14.md)  
-☐ Task 015 - Setup SSL for Nginx  
+✔️ Task 015 - [Setup SSL for Nginx](./Level_01/Tasks_11-20/Task-15.md)  
 ☐ Task 016 - Install and Configure Nginx as an LBR  
 ☐ Task 017 - Install and Configure PostgreSQL  
 ☐ Task 018 - Configure LAMP server  
